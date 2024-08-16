@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <strong>Brayan</strong></h2>
+<h2>Hey 👋, I'm <strong>Alejandro</strong></h2>
 <p>I'm currently studying systems engineering at <em>Francisco Jose de Caldas University.</em></p>
 <p><a href="https://www.linkedin.com/in/alejandro-riveros-451304284/"><img src="https://img.shields.io/badge/-@Brayan-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=[https://www.linkedin.com/in/alejandro-riveros-451304284](https://www.linkedin.com/in/alejandro-riveros-451304284)" alt="LinkedIn Badge"></a> 
 <a href=https://gitlab.com/BrayanRiveros><img src="https://img.shields.io/badge/%40BrayanRiveros-4700a7?logo=gitlab&link=https%3A%2F%2Fgitlab.com%2FBrayanRiveros"></a>
