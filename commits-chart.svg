@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
-  <polygon points="40,170 40,166 107,170 175,170 242,170 309,147 376,20 444,147 511,170 578,166 645,161 713,166 780,120 780,170" fill="rgba(127,119,221,0.1)"/>
-  <polyline points="40,166 107,170 175,170 242,170 309,147 376,20 444,147 511,170 578,166 645,161 713,166 780,120" fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="40,170 40,166 107,170 175,170 242,170 309,147 376,20 444,147 511,170 578,166 645,161 713,166 780,118 780,170" fill="rgba(127,119,221,0.1)"/>
+  <polyline points="40,166 107,170 175,170 242,170 309,147 376,20 444,147 511,170 578,166 645,161 713,166 780,118" fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linejoin="round"/>
   <circle cx="40" cy="166" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
 <circle cx="107" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
 <circle cx="175" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
@@ -12,7 +12,7 @@
 <circle cx="578" cy="166" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
 <circle cx="645" cy="161" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
 <circle cx="713" cy="166" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="780" cy="120" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="780" cy="118" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
   <text x="40" y="200" text-anchor="middle" font-size="11" fill="#888">jun</text>
 <text x="107" y="200" text-anchor="middle" font-size="11" fill="#888">jul</text>
 <text x="175" y="200" text-anchor="middle" font-size="11" fill="#888">ago</text>
