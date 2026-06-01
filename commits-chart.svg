@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
-  <polygon points="40,170 40,166 107,170 175,170 242,170 309,147 376,20 444,147 511,170 578,166 645,161 713,166 780,107 780,170" fill="rgba(127,119,221,0.1)"/>
-  <polyline points="40,166 107,170 175,170 242,170 309,147 376,20 444,147 511,170 578,166 645,161 713,166 780,107" fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linejoin="round"/>
-  <circle cx="40" cy="166" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+  <polygon points="40,170 40,170 107,170 175,170 242,147 309,20 376,147 444,170 511,166 578,161 645,166 713,107 780,170 780,170" fill="rgba(127,119,221,0.1)"/>
+  <polyline points="40,170 107,170 175,170 242,147 309,20 376,147 444,170 511,166 578,161 645,166 713,107 780,170" fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="40" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
 <circle cx="107" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
 <circle cx="175" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="242" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="309" cy="147" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="376" cy="20" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="444" cy="147" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="511" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="578" cy="166" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="645" cy="161" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="713" cy="166" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-<circle cx="780" cy="107" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
-  <text x="40" y="200" text-anchor="middle" font-size="11" fill="#888">jun</text>
-<text x="107" y="200" text-anchor="middle" font-size="11" fill="#888">jul</text>
-<text x="175" y="200" text-anchor="middle" font-size="11" fill="#888">ago</text>
-<text x="242" y="200" text-anchor="middle" font-size="11" fill="#888">sept</text>
-<text x="309" y="200" text-anchor="middle" font-size="11" fill="#888">oct</text>
-<text x="376" y="200" text-anchor="middle" font-size="11" fill="#888">nov</text>
-<text x="444" y="200" text-anchor="middle" font-size="11" fill="#888">dic</text>
-<text x="511" y="200" text-anchor="middle" font-size="11" fill="#888">ene</text>
-<text x="578" y="200" text-anchor="middle" font-size="11" fill="#888">feb</text>
-<text x="645" y="200" text-anchor="middle" font-size="11" fill="#888">mar</text>
-<text x="713" y="200" text-anchor="middle" font-size="11" fill="#888">abr</text>
-<text x="780" y="200" text-anchor="middle" font-size="11" fill="#888">may</text>
+<circle cx="242" cy="147" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="309" cy="20" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="376" cy="147" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="444" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="511" cy="166" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="578" cy="161" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="645" cy="166" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="713" cy="107" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+<circle cx="780" cy="170" r="4" fill="#7F77DD" stroke="#fff" stroke-width="1.5"/>
+  <text x="40" y="200" text-anchor="middle" font-size="11" fill="#888">jul</text>
+<text x="107" y="200" text-anchor="middle" font-size="11" fill="#888">ago</text>
+<text x="175" y="200" text-anchor="middle" font-size="11" fill="#888">sept</text>
+<text x="242" y="200" text-anchor="middle" font-size="11" fill="#888">oct</text>
+<text x="309" y="200" text-anchor="middle" font-size="11" fill="#888">nov</text>
+<text x="376" y="200" text-anchor="middle" font-size="11" fill="#888">dic</text>
+<text x="444" y="200" text-anchor="middle" font-size="11" fill="#888">ene</text>
+<text x="511" y="200" text-anchor="middle" font-size="11" fill="#888">feb</text>
+<text x="578" y="200" text-anchor="middle" font-size="11" fill="#888">mar</text>
+<text x="645" y="200" text-anchor="middle" font-size="11" fill="#888">abr</text>
+<text x="713" y="200" text-anchor="middle" font-size="11" fill="#888">may</text>
+<text x="780" y="200" text-anchor="middle" font-size="11" fill="#888">jun</text>
 </svg>
